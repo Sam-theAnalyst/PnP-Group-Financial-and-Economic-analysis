@@ -28,7 +28,7 @@ The effective tax rate remained broadly stable, so tax declined proportionately.
 Earnings per share declined consistently with the decline in profit.
 
 Statement of financial position
-![Financial Position Trend FY2022 to FY2023](https://raw.githubusercontent.com/username/PnP-Group-Financial-and-Economic-analysis/main/images/Financial%20position%20trend%20FY2022%20to%20FY2023.PNG)
+![Financial Position FY2022 to FY2023](images/Financial%20position%20trend%20FY2022%20to%20FY2023.PNG)
 Lease liabilities increasing because a new store was opened. It should be noted that lease liability is the Group’s largest liability.
 
 Trade and other payables increased, this is a good sign as it signifies an improvement in working capital management and increased revenue growth.
@@ -47,7 +47,7 @@ Intangible assets decreased, reflecting regular amortisation of existing intangi
 ## 2023 and 2024 Financial and Economic analysis
 
 Income statement
-![Income Trend FY2023 to FY2024](https://raw.githubusercontent.com/username/PnP-Group-Financial-and-Economic-analysis/main/images/Income%20trend%20FY2023%20to%20FY2024.PNG)
+![Income Trend FY2023 to FY2024](images/Income%20trend%20FY2023%20to%20FY2024.PNG)
 
   Revenue and turnover increased from FY2023 to FY2024, this is because Boxer began its largest expansion.
 
@@ -66,7 +66,7 @@ A loss before tax and a loss for the period were experienced due to a decline in
 The drastic decline in earnings per share reflect structural issues in the business model and require a fundamental strategic reset.
 
 Statement of Financial position
-![Financial Position Trend FY2023 to FY2024](https://raw.githubusercontent.com/username/PnP-Group-Financial-and-Economic-analysis/main/images/Financial%20position%20trend%20FY2023%20to%20FY2024.PNG)
+![Financial Position FY2023 to FY2024](images/Financial%20position%20trend%20FY2023%20to%20FY2024.PNG)
 Current liabilities grew which appears positive in isolation but masks significant structural shifts
 
 Current assets declined, driven by a dramatic decline in trade and other receivables as one of the factors.
@@ -93,7 +93,7 @@ There was a larger decline in derivative financial instruments, reflecting a red
 ## 2024 and 2025 Financial and Economic analysis
 
 Income statement
-![Income Trend FY2024 to FY2025](https://raw.githubusercontent.com/username/PnP-Group-Financial-and-Economic-analysis/main/images/Income%20trend%20FY2024%20to%20FY2025.PNG)
+![Income Trend FY2024 to FY2025](images/Income%20trend%20FY2024%20to%20FY2025.PNG)
 
 The increase in revenue and turnover was due to the additional week in FY2025 compared to FY2024.
 
@@ -108,7 +108,7 @@ The strong rebound in trading profit is caused by an increase in operating lever
 Loss before tax was driven by inflated costs in asset impairments.
 
 Statement of Financial Position 
-![Financial Position Trend FY2024 to FY2025](https://raw.githubusercontent.com/username/PnP-Group-Financial-and-Economic-analysis/main/images/Financial%20position%20trend%20FY2024%20to%20FY2025.PNG)
+![Financial Position FY2024 to FY2025](images/Financial%20position%20trend%20FY2024%20to%20FY2025.PNG)
 Short-term borrowings decreased as a result of using less leverage, initiating a Boxer IPO instead.
 
 Trade and other receivables experienced a sharp increase due to prior period error correction.
