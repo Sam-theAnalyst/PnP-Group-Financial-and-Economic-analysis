@@ -9,7 +9,7 @@ This project analyses Pick n Pay Group's financial and economic performance betw
 ## 2022 and 2023 Financial and economic analysis
 
 Income statement
-!images/Income trend FY2023 to FY2024.PNG
+![Income Trend FY2022 to FY2023](images/Income%20trend%20fro%20FY2022%20to%20FY2023.PNG)
 
 The growth in revenue and turnover from FY2022 to FY 2023 can be linked to selling price inflation passing through to consumers.
 
