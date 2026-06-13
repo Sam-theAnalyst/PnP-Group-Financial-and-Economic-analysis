@@ -1,0 +1,16 @@
+PnP-Group-Financial-and-Economic-analysis/
+│
+├── README.md
+│
+├── images/
+│   ├── screenshot1.png
+│   ├── screenshot2.png
+│   └── screenshot3.png
+│
+├── analysis/
+│   ├── economic_analysis_1.md
+│   ├── economic_analysis_2.md
+│   └── economic_analysis_3.md
+│
+└── data/
+    └── source_files.xlsx
